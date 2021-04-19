@@ -4,10 +4,9 @@ sections:
   - type: hero_section
     title: Instantly Boost Your Productivity
     subtitle: Stop wasting time on code that isn't reliable and breaks.
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+    content: >
+      At xybots.io, we only deliver top quality, custom made discord bots
+      exactly as you'd want. Free big fixes too.
     actions:
       - label: App Store
         url: /pricing
