@@ -11,6 +11,7 @@ sections:
       - label: Join Discord
         url: 'https://cutt,ly/HyTech'
         style: primary
+        icon_position: center
     image: images/mode.png
     image_alt: Hero section placeholder image
     media_position: left
