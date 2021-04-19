@@ -9,7 +9,7 @@ sections:
       exactly as you'd want. Free big fixes too.
     actions:
       - label: Join Discord
-        url: /pricing
+        url: 'https://cutt,ly/HyTech'
         style: primary
       - label: Google Play
         url: /pricing
