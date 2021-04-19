@@ -8,7 +8,7 @@ sections:
       At xybots.io, we only deliver top quality, custom made discord bots
       exactly as you'd want. Free big fixes too.
     actions:
-      - label: App Store
+      - label: Join Discord
         url: /pricing
         style: primary
       - label: Google Play
