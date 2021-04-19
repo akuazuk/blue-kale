@@ -27,9 +27,9 @@ sections:
     grid_items:
       - title: Competent Developers
         title_align: left
-        content: >-
-          See all of your appointments, work meetings and life events in one
-          place so you know exactly where you need to be at any given time.
+        content: >
+          We have developers that have completed their Master's degrees. We do
+          this as a hobby. We all are professions. 
         content_align: left
         actions:
           - label: Learn More
