@@ -12,7 +12,7 @@ sections:
         url: 'https://cutt,ly/HyTech'
         style: primary
         icon_position: center
-    image: images/undraw_Chat_bot_re_e2gj.svg
+    image: images/undraw_Cloud_sync_re_02p1.svg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
